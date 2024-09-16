@@ -13,7 +13,7 @@
 >>>Sorprendentemente me está gustando. :eyes:
 -----
 
-![Texto alternativo](../Imágenes/IMG_1132.jpeg)
+![Texto alternativo](../Imagenes/Captura)
 
 ### :telephone_receiver: Mis contactos:
 + [Mi correo](ainara.perea@live.u-tad.com)
